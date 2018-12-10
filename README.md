@@ -2,7 +2,7 @@
 # Description
 Difficulty **7/10**
 
-Inside `src/strange-object.js` you can find a very strange Java Script object.   
+Inside `src/strange-object.js` you can find a very strange JavaScript object.   
 It has a property `value` that can either be a function or a string.
 
 # Problem
