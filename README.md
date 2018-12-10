@@ -10,7 +10,7 @@ Fix the `strange-object.js` so that the tests inside `tests/index.test.js` pass.
 Do not change the tests file!
 
 # Expected Output
-After running `npm run`, the terminal should show:
+After running `npm test`, the terminal should show:
 
 ```
 > mocha "tests/index.test.js"
