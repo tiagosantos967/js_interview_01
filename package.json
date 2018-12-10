@@ -1,0 +1,17 @@
+{
+  "name": "js_int_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
